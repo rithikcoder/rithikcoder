@@ -5,9 +5,9 @@ Front End Web-Developer
 -----------------------
 
 * 🌍  I'm based in Chennai
-* 🖥️  See my portfolio at [MyPortfolio](http://rithikcoder.github.io/portfolio-website/)
+* 🖥️  See my portfolio at [MyPortfolio](http://rithik-tiwari.github.io/portfolio-website/)
 * ✉️  You can contact me at [gyantiwari10101@gmial.com](mailto:gyantiwari10101@gmial.com)
-* 🚀  I'm currently working on [To-Do-List](http://rithikcoder.github.io/To-Do-List/)
+* 🚀  I'm currently working on [To-Do-List](http://rithik-tiwari.github.io/To-Do-List/)
 * 🧠  I'm learning Back-End-Development
 * 🤝  I'm open to collaborating on Intresting Projects
 
