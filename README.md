@@ -11,8 +11,8 @@ Front End Web-Developer
 * 🧠  I'm learning Back-End-Development
 * 🤝  I'm open to collaborating on Intresting Projects
 
-<a href="https://www.github.com/rithikcoder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rithikcoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/rithik-tiwari" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rithik-tiwari?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
