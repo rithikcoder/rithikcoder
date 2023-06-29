@@ -8,7 +8,7 @@ Front End Web-Developer
 * 🖥️  See my portfolio at [MyPortfolio](http://rithik-tiwari.github.io/portfolio-website/)
 * ✉️  You can contact me at [gyantiwari10101@gmail.com](mailto:gyantiwari10101@gmail.com)
 * 🚀  I'm currently working on [GPT3__Blog](http://rithik-tiwari.github.io/gpt3__blog/)
-* 🧠  I'm learning Back-End-Development
+* 🧠  I'm learning ANDROID-DEVELOPMENT
 * 🤝  I'm open to collaborating on Intresting Projects
 
 <a href="https://www.github.com/rithik-tiwari" target="_blank" rel="noreferrer"><img
