@@ -6,7 +6,7 @@ Front End Web-Developer
 
 * 🌍  I'm based in Chennai
 * 🖥️  See my portfolio at [MyPortfolio](http://rithik-tiwari.github.io/dev_portfolio/)
-* ✉️  You can contact me at [gyantiwari10101@gmail.com](mailto:gyantiwari10101@gmail.com)
+* ✉️  You can contact me at [CodeGYAN@Mail.box](mailto:gyantiwari10101@gmail.com)
 * 🚀  I'm currently working on [GPT3__Blog](http://rithik-tiwari.github.io/gpt3__blog/)
 * 🧠  I'm learning ANDROID-DEVELOPMENT
 * 🤝  I'm open to collaborating on Intresting Projects
